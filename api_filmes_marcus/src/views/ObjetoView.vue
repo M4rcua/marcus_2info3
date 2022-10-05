@@ -1,6 +1,6 @@
 <template>
   <header>
-    <i><h1>Vala Video</h1></i>
+    <i><h1>Velias Video</h1></i>
     <i><h1>Séries</h1></i>
     <i><h1>Filmes</h1></i>
     <i><h1>Gêneros</h1></i>
