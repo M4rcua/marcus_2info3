@@ -1,10 +1,9 @@
 <template>
   <header>
-    <i><h1>Velias Video</h1></i>
-    <i><h1>Séries</h1></i>
-    <i><h1>Filmes</h1></i>
-    <i><h1>Gêneros</h1></i>
-    <i><h1>Sobre Nós</h1></i>
+    <i><h1>VE Stats</h1></i>
+    <i><h1>Teams</h1></i>
+    <i><h1>NBA Advanced Stats</h1></i>
+    <i><h1>Results</h1></i>
   </header>
 </template>
 
